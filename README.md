@@ -1,3 +1,1 @@
-# Java-Programmering-12
-Sted for lagring av kode til JP12
-Gruppe 17
+# dat100-jplab12-startkode
